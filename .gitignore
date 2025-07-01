@@ -1,0 +1,23 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# 数据和模型
+data/
+*.npy
+*.csv
+*.mat
+*.h5
+*.tif
+*.zip
+*.mp4
+
+# 临时结果
+results/
+ModelCheckpoint/
